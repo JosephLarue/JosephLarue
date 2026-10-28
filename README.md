@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [**GrabTheRemote**], one shared screen for the whole internet: everyone watches the same YouTube video or Twitch stream at the same second, and the crowd votes on what plays next.
 
-- 🌱 I'm currently learning **to manage team of developers**
+- 🌱 I'm currently learning **orchestrate AI agents to parallelize my work**
 
 - 📫 How to reach me **joseph.larue@edhec.com**
 
